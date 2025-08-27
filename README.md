@@ -6,5 +6,5 @@ ou d'au revoir dans l'application.
 
 ---
 ## Répartition du travail
-backend (API, DB, sécurité) = Manon Damoiseau
-frontend + arduino (Angular + Arduino sur maison OSOYOO) = Lukas Van Hauve
+> backend (API, DB, sécurité) = Manon Damoiseau
+> frontend + arduino (Angular + Arduino sur maison OSOYOO) = Lukas Van Hauve
