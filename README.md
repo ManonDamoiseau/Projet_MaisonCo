@@ -9,3 +9,10 @@ ou d'au revoir dans l'application.
 backend (API, DB, sécurité) = Manon Damoiseau
 
 frontend + arduino (Angular + Arduino sur maison OSOYOO) = Lukas Van Hauve
+
+---
+## DB
+USER : Id, Nom, MotDePasse, Role
+
+## SECURITE
+Authentification, JWT
