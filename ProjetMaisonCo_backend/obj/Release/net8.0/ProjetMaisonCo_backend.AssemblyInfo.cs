@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetMaisonCo_backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+082dbc9ac29e8a88c649d8814a11c0639d50329c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad72f2ffc39fc122750fd01c65ff9d68643431fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetMaisonCo_backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetMaisonCo_backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
